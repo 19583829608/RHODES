@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.venv/
+venv/
+env/
+.env
+.pytest_cache/
+*.egg-info/
+
+# Go
+*.exe
+*.db
+
+# Archives
+*.zip
+
+# Build
+dist/
+build/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
